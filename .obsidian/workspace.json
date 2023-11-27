@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e1220419051cb014",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "리눅스 지식/Module (모듈).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "리눅스 지식/Dynamic Loading (동적 로딩).md",
+                "file": "리눅스 지식/Module (모듈).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "리눅스 지식/Dynamic Loading (동적 로딩).md",
+                "file": "리눅스 지식/Module (모듈).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "리눅스 지식/Dynamic Loading (동적 로딩).md"
+                "file": "리눅스 지식/Module (모듈).md"
               }
             }
           },
@@ -181,10 +193,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6383db5a443fa4e9",
+  "active": "e1220419051cb014",
   "lastOpenFiles": [
-    "일정관리/맥락 관리.md",
     "리눅스 지식/Dynamic Loading (동적 로딩).md",
+    "리눅스 지식/Module (모듈).md",
+    "일정관리/맥락 관리.md",
     "일정관리/위시리스트.md",
     "무제 파일.md",
     "컴퓨터비전 지식",
@@ -221,7 +234,6 @@
     "일정관리/프로젝트 관리/코딩 자율학습단/HTML반/1주차/2일.md",
     "일정관리/프로젝트 관리/코딩 자율학습단/HTML반/2주차/1일.md",
     "일정관리/프로젝트 관리/코딩 자율학습단/HTML반/1주차/4일.md",
-    "일정관리/프로젝트 관리/코딩 자율학습단/HTML반/1주차/3일.md",
     "[일정관리/프로젝트 관리/코딩 자율학습단/HTML반/1주차",
     "[일정관리/프로젝트 관리/코딩 자율학습단/HTML반",
     "[일정관리/프로젝트 관리/코딩 자율학습단",
