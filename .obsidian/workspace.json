@@ -54,9 +54,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "514c08e788448b38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "리눅스 지식/Device File (디바이스 파일).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5164907d915ddae9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "리눅스 지식/Module (모듈).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11b6ea9604bfa4cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "리눅스 지식/MQTT (Message Queuing Telemetry Transport).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -122,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "리눅스 지식/Module (모듈).md",
+                "file": "리눅스 지식/MQTT (Message Queuing Telemetry Transport).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "리눅스 지식/Module (모듈).md",
+                "file": "리눅스 지식/MQTT (Message Queuing Telemetry Transport).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "리눅스 지식/Module (모듈).md"
+                "file": "리눅스 지식/MQTT (Message Queuing Telemetry Transport).md"
               }
             }
           },
@@ -193,10 +229,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e1220419051cb014",
+  "active": "11b6ea9604bfa4cd",
   "lastOpenFiles": [
-    "리눅스 지식/Dynamic Loading (동적 로딩).md",
     "리눅스 지식/Module (모듈).md",
+    "리눅스 지식/MQTT (Message Queuing Telemetry Transport).md",
+    "데이터베이스 지식/관계형 데이터베이스.md",
+    "리눅스 지식/Device File (디바이스 파일).md",
+    "리눅스 지식/Dynamic Loading (동적 로딩).md",
     "일정관리/맥락 관리.md",
     "일정관리/위시리스트.md",
     "무제 파일.md",
@@ -231,9 +270,6 @@
     "사진/Pasted image 20231112010821.png",
     "사진/Pasted image 20231112010815.png",
     "사진/Pasted image 20231112010753.png",
-    "일정관리/프로젝트 관리/코딩 자율학습단/HTML반/1주차/2일.md",
-    "일정관리/프로젝트 관리/코딩 자율학습단/HTML반/2주차/1일.md",
-    "일정관리/프로젝트 관리/코딩 자율학습단/HTML반/1주차/4일.md",
     "[일정관리/프로젝트 관리/코딩 자율학습단/HTML반/1주차",
     "[일정관리/프로젝트 관리/코딩 자율학습단/HTML반",
     "[일정관리/프로젝트 관리/코딩 자율학습단",
