@@ -8,79 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8cdf668f1f394a5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "일정관리/위시리스트.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8f903614b3b75455",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "일정관리/맥락 관리.md",
+                "file": "개발 용어/overhead(오버헤드).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6383db5a443fa4e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "리눅스 지식/Dynamic Loading (동적 로딩).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1220419051cb014",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "리눅스 지식/Module (모듈).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "514c08e788448b38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "리눅스 지식/Device File (디바이스 파일).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5164907d915ddae9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "리눅스 지식/Module (모듈).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "11b6ea9604bfa4cd",
+            "id": "e70a250e82cc5478",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -90,9 +30,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6383db5a443fa4e9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,28 +177,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "11b6ea9604bfa4cd",
+  "active": "e70a250e82cc5478",
   "lastOpenFiles": [
-    "리눅스 지식/Module (모듈).md",
-    "리눅스 지식/MQTT (Message Queuing Telemetry Transport).md",
-    "데이터베이스 지식/관계형 데이터베이스.md",
     "리눅스 지식/Device File (디바이스 파일).md",
-    "리눅스 지식/Dynamic Loading (동적 로딩).md",
-    "일정관리/맥락 관리.md",
+    "개발 용어/Qos(Quality of Service) 서비스 품질.md",
+    "개발 용어/overhead(오버헤드).md",
+    "리눅스 지식/MQTT (Message Queuing Telemetry Transport).md",
+    "리눅스 지식/Module (모듈).md",
+    "일정관리/프로젝트 관리/LRS 강의 수강 및 정리.md",
     "일정관리/위시리스트.md",
+    "일정관리/프로젝트 관리/코딩 자율학습단 5기 HTML반.md",
+    "README.md",
+    "일정관리/프로젝트 관리/코멘토 백엔드 2차 과제. 개발 진행.md",
+    "일정관리/프로젝트 관리/코멘토 백엔드 1차 과제. 기획안 작성.md",
+    "프론트엔드 지식/테스트 코드.md",
+    "일정관리/프로젝트 관리/코멘토 백엔드 직무부트캠프.md",
+    "리눅스 지식/Dynamic Loading (동적 로딩).md",
+    "데이터베이스 지식/관계형 데이터베이스.md",
+    "개발 용어",
     "무제 파일.md",
     "컴퓨터비전 지식",
     "데이터베이스 지식",
     "리눅스 지식",
     "지금이라도 정리하는 리눅스/12강.md",
     "지금이라도 정리하는 리눅스/13강.md",
-    "일정관리/프로젝트 관리/코딩 자율학습단 5기 HTML반.md",
     "Pasted image 20231115193824.png.md",
     "아이디어.md",
     "아이디어.pdf",
     "일정관리/북마크 노트.canvas",
     "[일정관리/무제 파일.md",
-    "일정관리/프로젝트 관리/코멘토 백엔드 직무부트캠프.md",
     "지금이라도 정리하는 리눅스/11강.md",
     "지금이라도 정리하는 리눅스",
     "프론트엔드 지식/네트워크 통신.md",
@@ -260,19 +215,12 @@
     "일정관리/프로젝트 관리/코딩 자율학습단/HTML반/1주차/1일.md",
     "프론트엔드 지식/API.md",
     "프론트엔드 지식/배포.md",
-    "프론트엔드 지식/테스트 코드.md",
     "프론트엔드 지식",
-    "일정관리/프로젝트 관리/코딩 자율학습단/HTML반/3주차/1일.md",
-    "[일정관리/프로젝트 관리/코딩 자율학습단/HTML반/1주차/1일.md",
-    "일정관리/프로젝트 관리/코멘토 직무부트캠프/코멘토 백엔드 2차 과제. 개발 진행.md",
-    "일정관리/프로젝트 관리/코딩 자율학습단/HTML반/1주차/5일.md",
-    "일정관리/프로젝트 관리/코멘토 직무부트캠프/코멘토 백엔드 1차 과제. 기획안 작성.md",
     "사진/Pasted image 20231112010821.png",
     "사진/Pasted image 20231112010815.png",
     "사진/Pasted image 20231112010753.png",
     "[일정관리/프로젝트 관리/코딩 자율학습단/HTML반/1주차",
     "[일정관리/프로젝트 관리/코딩 자율학습단/HTML반",
-    "[일정관리/프로젝트 관리/코딩 자율학습단",
     "사진/Pasted image 20231110145947.png",
     "사진/Pasted image 20231110141358.png",
     "사진/Pasted image 20231110141347.png",
