@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Weather Predict System</title>
+    </head>
+    <body>
+        <h1>Weather Predict System</h1>
+        <table border="1">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Sensor ID</th>
+                    <th>MAX temp</th>
+                    <th>AVG temp</th>
+                    <th>MIN temp</th>
+                    <th>Rainy Percent</th>
+                    <th>Windy Percent</th>
+                    <th>TIME</th>
+                    <th>Weather</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for data in sensor_data %}
+                <tr>
+                    {% for item, value in data.items(): %}
+                    <td align="center">{{ value }}</td>
+                    {% endfor %}
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </body>
+</html>
