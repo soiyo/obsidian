@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데이터베이스 지식/2NF, Second Normal Form(제2정규형).md",
+                "file": "데이터베이스 지식/제2정규형 (2NF, Second Normal Form).md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데이터베이스 지식/2NF, Second Normal Form(제2정규형).md",
+                "file": "데이터베이스 지식/제2정규형 (2NF, Second Normal Form).md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데이터베이스 지식/Normalization (정규화).md",
+                "file": "데이터베이스 지식/정규화 (Normalization).md",
                 "mode": "source",
                 "source": false
               }
@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데이터베이스 지식/2NF, Second Normal Form(제2정규형).md",
+                "file": "데이터베이스 지식/제2정규형 (2NF, Second Normal Form).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c39f2cf1a6be21b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "데이터베이스 지식/함수적 종속성 (FD, Functional Dependency).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데이터베이스 지식/2NF, Second Normal Form(제2정규형).md",
+                "file": "데이터베이스 지식/함수적 종속성 (FD, Functional Dependency).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데이터베이스 지식/2NF, Second Normal Form(제2정규형).md",
+                "file": "데이터베이스 지식/함수적 종속성 (FD, Functional Dependency).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "데이터베이스 지식/2NF, Second Normal Form(제2정규형).md"
+                "file": "데이터베이스 지식/함수적 종속성 (FD, Functional Dependency).md"
               }
             }
           },
@@ -205,15 +217,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cbb45b800711a868",
+  "active": "9c39f2cf1a6be21b",
   "lastOpenFiles": [
+    "데이터베이스 지식/제3정규형 (NF, Third Normal Form).md",
     "데이터베이스 지식/관계형 데이터베이스.md",
-    "데이터베이스 지식/Normalization (정규화).md",
-    "데이터베이스 지식/NF, Third Normal Form(제3정규형).md",
+    "데이터베이스 지식/함수적 종속성 (FD, Functional Dependency).md",
+    "사진/Pasted image 20231202190850.png",
+    "데이터베이스 지식/정규화 (Normalization).md",
+    "데이터베이스 지식/제2정규형 (2NF, Second Normal Form).md",
+    "데이터베이스 지식/제1정규형 (1NF, First Normal Form).md",
+    "사진/Pasted image 20231202190116.png",
+    "사진/Pasted image 20231202185535.png",
+    "사진/Pasted image 20231202185327.png",
     "사진/Pasted image 20231202184054.png",
-    "데이터베이스 지식/2NF, Second Normal Form(제2정규형).md",
     "사진/Pasted image 20231202183206.png",
-    "데이터베이스 지식/1NF, First Normal Form (제1정규형).md",
     "사진/Pasted image 20231202182856.png",
     "python 문법 모음.md",
     "사진/Pasted image 20231202182539.png",
@@ -239,7 +256,6 @@
     "지금이라도 정리하는 리눅스/12강.md",
     "지금이라도 정리하는 리눅스/13강.md",
     "Pasted image 20231115193824.png.md",
-    "아이디어.md",
     "아이디어.pdf",
     "일정관리/북마크 노트.canvas",
     "지금이라도 정리하는 리눅스",
@@ -247,11 +263,7 @@
     "Attachments/Pasted image 20231119003743.png",
     "Attachments",
     "프론트엔드 지식",
-    "사진/Pasted image 20231112010821.png",
-    "사진/Pasted image 20231112010815.png",
-    "사진/Pasted image 20231112010753.png",
     "[일정관리/프로젝트 관리/코딩 자율학습단/HTML반/1주차",
-    "[일정관리/프로젝트 관리/코딩 자율학습단/HTML반",
-    "사진/Pasted image 20231110145947.png"
+    "[일정관리/프로젝트 관리/코딩 자율학습단/HTML반"
   ]
 }
