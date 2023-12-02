@@ -8,4 +8,4 @@
 
 [[1NF, First Normal Form (제1정규형)]]
 [[2NF, Second Normal Form(제2정규형)]]
-[[제3정규형]]
+[[NF, Third Normal Form(제3정규형)]]
