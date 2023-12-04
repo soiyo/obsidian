@@ -4,71 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "20a389b396264086",
+        "id": "1b4e2628ec17d6b0",
         "type": "tabs",
         "children": [
           {
-            "id": "72fd59acb5a86262",
+            "id": "ce5c5b2a2a41965b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "데이터베이스 지식/타임스탬프 (Timestamp).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f9679017697f1c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "데이터베이스 지식/WAL(Write Ahead Logging).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4a63f8c8db1b018",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "데이터베이스 지식/로그.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7753483dd5624125",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "데이터베이스 지식/이진트리.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "076eb1fc03b2b562",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "데이터베이스 지식/B-Tree.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데이터베이스 지식/B-Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데이터베이스 지식/B-Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "데이터베이스 지식/B-Tree.md"
-              }
+              "state": {}
             }
           },
           {
@@ -205,14 +148,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "076eb1fc03b2b562",
+  "active": "ce5c5b2a2a41965b",
   "lastOpenFiles": [
+    "데이터베이스 지식/타임스탬프 (Timestamp).md",
+    "데이터베이스 지식/WAL(Write Ahead Logging).md",
+    "데이터베이스 지식/로그.md",
     "데이터베이스 지식/이진트리.md",
     "데이터베이스 지식/B-Tree.md",
     "사진/Pasted image 20231203191150.png",
-    "데이터베이스 지식/로그.md",
-    "데이터베이스 지식/WAL(Write Ahead Logging).md",
-    "데이터베이스 지식/타임스탬프 (Timestamp).md",
     "데이터베이스 지식/시스템 로그.md",
     "데이터베이스 지식/제3정규형 (NF, Third Normal Form).md",
     "데이터베이스 지식/제2정규형 (2NF, Second Normal Form).md",
