@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1b4e2628ec17d6b0",
+        "id": "cd8f12f53cbc4c64",
         "type": "tabs",
         "children": [
           {
-            "id": "ce5c5b2a2a41965b",
+            "id": "3cf9fb762a7cc2b3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "데이터베이스 지식/B-Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "데이터베이스 지식/B-Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "데이터베이스 지식/B-Tree.md"
+              }
             }
           },
           {
@@ -148,7 +152,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ce5c5b2a2a41965b",
+  "active": "1c66f9ffc9fb29cb",
   "lastOpenFiles": [
     "데이터베이스 지식/타임스탬프 (Timestamp).md",
     "데이터베이스 지식/WAL(Write Ahead Logging).md",
